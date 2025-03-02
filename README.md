@@ -53,6 +53,6 @@ npm run start
 }
 ```
 
-**Expected Response**
+**Expected Response**\
 Received order:  { id: 1, expiry: '15-06-01', item: 'Sample Product', quantity: 2 }
 
